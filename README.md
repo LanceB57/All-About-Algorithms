@@ -1,2 +1,2 @@
-# All-About-Algorithms
-All About Algorithms club material.
+# All-About-Algorithms-Admin
+All About Algorithms repository for admin files.
